@@ -1,0 +1,45 @@
+{ 
+  "name" : "gradebook",
+  "key" : "test",
+  "assignments" : 
+  { 
+    "assignment1" : 
+      { "points" : 10,
+        "weight" : 0.1,
+        "students" : 
+          { "Bob Obb" : 9 
+        }
+      },
+      "assignment2" : 
+      { "points" : 10,
+        "weight" : 0.1,
+        "students" : 
+          { "Bob Obb" : 9 
+        }
+      },
+      "assignment3" : 
+      { "points" : 10,
+        "weight" : 0.1,
+        "students" : 
+          { "Bob Obb" : 9 
+        }
+      },
+      "assignment4" : 
+      { "points" : 10,
+        "weight" : 0.1,
+        "students" : 
+          { "Bob Obb" : 9 
+        }
+      }
+  },
+  "student_profiles" : [
+    { "name": Bob Obb, 
+      "assignments" : { 
+        "assignment1" : 10,
+        "assignment2" : 9,
+        "assignment3" : 9,
+        "assignment4" : 9,
+      }
+    ]
+  }
+}

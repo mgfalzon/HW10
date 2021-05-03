@@ -1,0 +1,35 @@
+** Test 1 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 90)
+(Smith, John, 95)
+(Tyler, Russell, 80)
+
+** Test 2 **
+- The output of your program is as follows
+- The expected output is as follows
+(Tyler, Russell, 190)
+(Smith, John, 180)
+(Mason, Ted, 150)
+
+** Test 3 **
+- The output of your program is as follows
+- The expected output is as follows
+(Midterm, 95)
+(Final, 180)
+(Project, 48)
+
+** Test 4 **
+- The output of your program is as follows
+- The expected output is as follows
+(Smith, John, 0.9275)
+(Tyler, Russell, 0.92)
+(Mason, Ted, 0.85)
+
+** Test 5 **
+- The output of your program is as follows
+- The expected output is as follows
+(Mason, Ted, 0.6)
+(Smith, John, 0.6875)
+(Tyler, Russell, 0.675)
+
