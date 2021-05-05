@@ -1,0 +1,19 @@
+testFile.txt
+Student
+Rohan Kumar
+Assignment
+Final:100
+Midterm:50
+Student
+Shane Fisher
+Assignment
+Student
+John Smith
+Assignment
+Final:100
+Midterm:95
+Student
+Ryan Lam
+Assignment
+Final:100
+Midterm:50
